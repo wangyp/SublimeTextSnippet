@@ -1,0 +1,4 @@
+SublimeTextSnippet
+==================
+
+Javascript snippet
