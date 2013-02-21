@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+dojo.when(${1: wait}, ${2: fun})]]></content>
+    <tabTrigger>when</tabTrigger>
+    <scope>source.js</scope>
+    <description>dojo.when...</description>
+</snippet>

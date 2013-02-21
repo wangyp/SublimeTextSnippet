@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ dojo.query($0)]]></content>
+    <tabTrigger>query</tabTrigger>
+    <scope>source.js</scope>
+    <description>dojo.query...</description>
+</snippet>

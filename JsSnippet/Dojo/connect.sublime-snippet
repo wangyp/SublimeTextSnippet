@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[dojo.connect(${1:source}, "${2:event}", ${3:handler})]]></content>
+    <tabTrigger>connect</tabTrigger>
+    <scope>source.js</scope>
+    <description>dojo.connect...</description>
+</snippet>

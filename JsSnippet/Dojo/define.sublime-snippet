@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+
+define("${1:name}", [$2], function ($3) {
+	dojo.declare("${1:name}", [$4], {
+		//property....
+		$5
+	});
+	return ${1:name};
+}
+]]></content>
+    <tabTrigger>define</tabTrigger>
+    <scope>source.js</scope>
+    <description>define...</description>
+</snippet>

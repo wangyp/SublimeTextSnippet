@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+dojo.hitch(${1:this}, function(${2:parameters}){
+	//todo...
+	$3
+})]]></content>
+    <tabTrigger>hitch</tabTrigger>
+    <scope>source.js</scope>
+    <description>dojo.hitch...</description>
+</snippet>
